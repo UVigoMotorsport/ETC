@@ -53,6 +53,6 @@ Range set requires you to set, at minimum, the minimum and maximum of the range.
 **b**: Set the range of the BPS sensor. **Range set**.  
 **p**: Set the throttle's range.  
 ##### Throttle range setting commands
-**+**: Set maximum (open) throttle position. **Range set**.  
-**-**: Set minimum (close) throttle position. **Range set**. *NOTE: THIS IS NOT THE IDLE POSITION*.  
+**+**: Set maximum (open) throttle position. **Point set**.  
+**-**: Set minimum (close) throttle position. **Point set**. *NOTE: THIS IS NOT THE IDLE POSITION*.  
 **q**: Quit.  
