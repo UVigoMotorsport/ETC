@@ -38,9 +38,9 @@ There are two types of setting - point set and range set.
 
 #### Point set
 Point set is for setting a specific limit or position, and always has the same set of commands:  
-**+**: Increase the control variable, usually microseconds of the servo.
-**-**: Decrease the control variable, usually microseconds of the servo.
-**q**: Quit.
+**+**: Increase the control variable, usually microseconds of the servo.  
+**-**: Decrease the control variable, usually microseconds of the servo.  
+**q**: Quit.  
 
 #### Range set
 Range set requires you to set, at minimum, the minimum and maximum of the range. Generally, this type of setting only has 1 command:  
@@ -50,7 +50,7 @@ Range set requires you to set, at minimum, the minimum and maximum of the range.
 **i**: Set idle position of throttle as a percentage of the throttle's total range. **Point set**.  
 **a**: Set the range of the APPS sensors. **Range set**.  
 **t**: Set the range of the TPS sensors. **Range set**.  
-**b**: Set the range of the BPS sensor. **Range set**.
+**b**: Set the range of the BPS sensor. **Range set**.  
 **p**: Set the throttle's range.  
 ##### Throttle range setting commands
 **+**: Set maximum (open) throttle position. **Range set**.  
